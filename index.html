@@ -4,7 +4,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Hexa Packages</title>
+    <title>Hexa Packages and Libraries</title>
     <meta name="keywords" content="Hexa packages hexalang hex">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -28,9 +28,10 @@
     {% seo title=false %}
 </head>
 
-<body>     
+<body>
     Here will be online Hexa packages viewer :)
+    <br><b>COMING SOON</b>
     <br><noscript>Requires JavaScript</noscript>
-    <script type="text/javascript">window.packagesList = {% include packages.json %};</script>
-    <script type="text/javascript" src="ui.js"></script>
+    <script type="text/javascript">packagesList = window.packagesList = {% include packages.json %}</script>
+    <script type="text/javascript">{% include ui.js %}</script>
 </body>
