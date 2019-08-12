@@ -5,9 +5,11 @@
 [Hexa](https://github.com/hexalang) package manager is a tool for easy code sharing between developers.
 This repo contains list of freely downloadable packages. [Add yours!](#adding-your-package)
 
+Package manager is a part of Hexa compiler, [go grab one](https://github.com/hexalang/hexa#download).
+
 If you're looking for IDE packages visit [this link](https://github.com/hexalang/hexa#tools--ide)
 
-How to use package manager: [...](TODO) :)
+How to use package manager: [Package manager in book](https://hexalang.github.io/book/Packages.html)
 
 Preview online: https://hexalang.github.io/packages/
 
@@ -58,7 +60,7 @@ Verify that tag properly created:
 
 ![verify_release](verify_release.png?raw=true)
 
-[More information about how to create and manage your packages](TODO book)
+[More information about how to create and manage your packages](https://hexalang.github.io/book/Packages.html)
 
 ## Notes
 
