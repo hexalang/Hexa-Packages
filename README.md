@@ -1,5 +1,7 @@
 # packages <img align="left" width="48px" height="48px" src="https://hexalang.github.io/favicon/favicon-96x96.png" />
 
+[![Build status](https://ci.appveyor.com/api/projects/status/2xu85n62w0s4veiy/branch/master?svg=true)](https://ci.appveyor.com/project/PeyTy/packages/branch/master)
+
 [Hexa](https://github.com/hexalang) package manager is a tool for easy code sharing between developers.
 This repo contains list of freely downloadable packages. [Add yours!](#adding-your-package)
 
